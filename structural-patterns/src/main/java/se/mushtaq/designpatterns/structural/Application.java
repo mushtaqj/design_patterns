@@ -1,4 +1,4 @@
-package se.mushtaq.designpatterns.creational;
+package se.mushtaq.designpatterns.structural;
 
 /**
  * <p>
