@@ -1,5 +1,7 @@
 package se.mushtaq.designpatterns.structural;
 
+import se.mushtaq.designpatterns.structural.proxy.ProxyPatternTest;
+
 /**
  * <p>
  * TODO - Explain What does this class do ?
@@ -10,4 +12,8 @@ package se.mushtaq.designpatterns.structural;
  **/
 public class Application
 {
+  public static void main(String[] args)
+  {
+    new ProxyPatternTest().run();
+  }
 }
